@@ -1,5 +1,9 @@
 ## Main
 
+# 2.4.2-cerence-HF (2022/04/06)
+
+* [5777](https://github.com/grafana/loki/pull/5777) **tatchiuleung** storage: make Azure blobID chunk delimiter configurable.
+
 # 2.4.2 (2021/12/21)
 
 * [4875](https://github.com/grafana/loki/pull/4875) **trevorwhitney**: Loki: fix bug where common replication factor wasn't always getting applied
